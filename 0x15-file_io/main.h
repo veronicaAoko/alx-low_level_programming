@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAINN_H_
+#ifndef MAIN_H
+#define MAINN_H
 
 #include <unistd.h>
 
